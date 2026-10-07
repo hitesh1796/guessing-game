@@ -1,3 +1,5 @@
+
+
 # Number Guessing Game 🎯
 
 A simple Number Guessing Game built using Python.
@@ -24,13 +26,21 @@ The computer randomly selects a number, and the player has to guess the correct 
 3. Open the project folder in VS Code.
 4. Run:
 
-Guess the number between 1 and 100: 50
+```bash
+python "guessing game.py"
+```
+
+5. Enter your guesses and try to find the correct number.
+
+## Example
+
+Guess the number between 1 and 100: `50`  
 Too high!
 
-Guess the number between 1 and 100: 25
+Guess the number between 1 and 100: `25`  
 Too low!
 
-Guess the number between 1 and 100: 37
+Guess the number between 1 and 100: `37`  
 Congratulations! You guessed the number.
 
 ## What I Learned
@@ -42,5 +52,8 @@ Congratulations! You guessed the number.
 - Comparing numbers
 - Tracking the number of attempts
 
-```bash
-python "guessing game.py"
+## Author
+
+**Hitesh Trivedi**
+
+BTech CSE Student | Python Learner
